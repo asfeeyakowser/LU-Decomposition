@@ -21,23 +21,26 @@ To write a program to find the LU Decomposition of a matrix.
 /*
 Program to find the L and U matrix.
 
-<img width="603" height="259" alt="image" src="https://github.com/user-attachments/assets/4303f203-7592-415d-bcc9-1705f1100861" />
 
 
 Developed by:ASFEEYA KOWSER F
 RegisterNumber: 25008798
 */
 ```
+<img width="777" height="299" alt="image" src="https://github.com/user-attachments/assets/0ea43877-e5ae-4914-891e-000cc2ed7445" />
+
 (ii) To find the LU Decomposition of a matrix
 ```
 /*
 Program to find the LU Decomposition of a matrix.
 
 
-<img width="617" height="318" alt="image" src="https://github.com/user-attachments/assets/8cd8cc23-c1bd-442f-82f7-6e1a383922ae" />
+
 
 Developed by: ASFEEYA KOWSER F
 RegisterNumber: 25008798*/
+```
+<img width="802" height="332" alt="image" src="https://github.com/user-attachments/assets/d568a96b-557f-4e0c-9287-1eea98278cec" />
 
 
 ## Output:
